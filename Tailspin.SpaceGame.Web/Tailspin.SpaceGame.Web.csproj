@@ -12,6 +12,5 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
     <Content Include="azur-pipelines.yml" />
-    <Content Include="azure-pipelines.yml" />
   </ItemGroup>
 </Project>
